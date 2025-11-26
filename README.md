@@ -16,9 +16,9 @@
 
 ## About Me
 
-  I'm a passionate graphic designer with a knack for visual storytelling. <br>
-  I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer. <br>
-  My work bridges creativity and precision, aiming to make every project visually compelling.
+  I'm a passionate graphic designer with a knack for visual storytelling.. <br>
+  I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer.. <br>
+  My work bridges creativity and precision, aiming to make every project visually compelling..
 
 ---
 ## Languages and Tools
