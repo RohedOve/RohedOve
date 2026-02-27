@@ -16,9 +16,7 @@
 
 ## About Me
 
-  I'm a passionate graphic designer with a knack for visual storytelling.. <br>
-  I also delve into photo and video editing, bringing creative concepts to life, and capturing moments as a photographer.. <br>
-  My work bridges creativity and precision, aiming to make every project visually compelling..
+CSE graduate with a strong passion for graphic design and visual storytelling. Skilled in photo and video editing, I bring creative concepts to life while capturing impactful moments as a photographer. I also work with machine learning and AI technologies, applying data-driven techniques alongside my creative workflow. My work blends creativity with technical precision, focusing on delivering visually compelling and meaningful designs.
 
 ---
 ## Languages and Tools
