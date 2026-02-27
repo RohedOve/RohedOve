@@ -16,7 +16,7 @@
 
 ## About Me
 
-CSE graduate with a strong passion for graphic design and visual storytelling. Skilled in photo and video editing, I bring creative concepts to life while capturing impactful moments as a photographer. I also work with machine learning and AI technologies, applying data-driven techniques alongside my creative workflow. My work blends creativity with technical precision, focusing on delivering visually meaningful designs.
+CSE graduate with a strong passion for graphic design and visual storytelling. Skilled in photo and video editing, I bring creative concepts to life while capturing impactful moments as a photographer. I also work with machine learning and AI technologies, applying data-driven techniques alongside my creative workflow. My work blends creativity with technical precision, focusing on delivering visually compelling and meaningful designs.
 
 ---
 ## Languages and Tools
