@@ -2,7 +2,6 @@
 
 ### <div align="center">Hi There, I'm Rohed Ove & I'm A
 
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Programmer;Graphic+Designer;Photographer)](https://git.io/typing-svg)
 
 </div>
@@ -56,11 +55,6 @@ CSE graduate with a strong passion for graphic design and visual storytelling. S
 <a href="https://rohedove.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
 style="margin-bottom: 5px;" />
-</a>
-
-
-<!-- <a href="https://twitter.com/Rohed_Ove" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%23191919.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=behance style="margin-bottom: 5px;" /> -->
 </a>
 
 </div>
