@@ -60,3 +60,7 @@ style="margin-bottom: 5px;" />
 </div>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dibbodas1&color=2FA7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
