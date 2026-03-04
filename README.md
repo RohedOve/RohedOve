@@ -69,9 +69,5 @@ style="margin-bottom: 5px;" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RohedOve&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohedOve&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
