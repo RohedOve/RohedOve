@@ -60,14 +60,3 @@ style="margin-bottom: 5px;" />
 </div>
 
 ---
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohedOve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RohedOve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohedOve&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
