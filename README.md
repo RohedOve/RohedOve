@@ -53,7 +53,7 @@ CSE graduate with a strong passion for graphic design and visual storytelling. S
 </a>
 
 <a href="https://rohedove.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+<img src=https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
 style="margin-bottom: 5px;" />
 </a>
 
