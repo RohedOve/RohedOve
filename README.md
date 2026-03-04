@@ -61,3 +61,17 @@ style="margin-bottom: 5px;" />
 
 ---
 
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dibbodas1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Dibbodas1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibbodas1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
