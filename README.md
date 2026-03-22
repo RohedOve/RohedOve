@@ -60,20 +60,3 @@ style="margin-bottom: 5px;" />
 </div>
 
 ---
-
-## 🛠️ Skills & Technologies
-
-### 🚀 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
-</p>
-
-### 🧩 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jwt" />
-</p>
